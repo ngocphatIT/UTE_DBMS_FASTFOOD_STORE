@@ -1,1 +1,1 @@
-# UTE_DBMS_FASTFOOD_STORE
+Đồ án: Xây dựng chương trình quản lí cửa hàng thức ăn nhanh
